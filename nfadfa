@@ -45,7 +45,7 @@ void main()
 	scanf("%d", &start);
 	printf("Enter the number of final states?\n");
 	scanf("%d",&nofinal);
-	printf("Enter the number of final states?\n");
+	printf("Enter Final states?\n");
 	for(i=0;i<nofinal;i++)
 		scanf("%d",&finalstate[i]);
 
@@ -246,7 +246,7 @@ Enter the start state?
 1
 Enter the number of final states?
 2
-Enter the number of final states?
+Enter Final states?
 3
 4
 Enter no of transtion?
